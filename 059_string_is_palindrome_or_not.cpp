@@ -9,4 +9,4 @@ int main() {
 
     if (s == rev) cout << "Palindrome";
     else cout << "Not Palindrome";
-}
+}9
